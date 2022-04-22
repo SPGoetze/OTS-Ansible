@@ -37,7 +37,7 @@
     - na_ots_deploy
     - name: Create ONTAP Select Cluster
 
-collections:
+  collections:
     - netapp.ontap
 
   tasks:
